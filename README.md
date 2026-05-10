@@ -268,22 +268,6 @@ A custom Sentinel workbook dashboard was built to visualize:
 
 ---
 
-# Screenshots
-
-## Sentinel Incidents
-![Incidents](screenshots/incidents/incidents.png)
-
-## Investigation Workflow
-![Investigation](screenshots/incidents/investigation.png)
-
-## Workbook Dashboard
-![Dashboard](screenshots/dashboards/dashboard.png)
-
-## Logic App SOAR Playbook
-![SOAR](screenshots/playbooks/logic-app.png)
-
----
-
 # Skills Demonstrated
 
 - Microsoft Sentinel
